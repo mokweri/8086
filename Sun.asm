@@ -1,7 +1,7 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;		                                                                                      ;
-;		Author: Md. Arafat Kabir Sun                                                          ;
-;		Date: May 7, 2016																      ;
+;		Editor: Mokweri                                                        ;
+;		Date: January 2018																      ;
 ;                        																      ;
 ;		DESCRIPTIN:                                                                           ;
 ;			This example demonstrates the interfacing of 8086 with 16x2 LCD display.          ;
